@@ -1,8 +1,12 @@
-# Elixir
+# Introduction
 
-Here I will disponibilize my projects made using Elixir and his libraries in general.
+&nbsp;
 
-Each folder will reprents a single project with their own Readme, tests, etc!
+Hello everyone!
 
-# Important
-In nearby future I will archive projects using Phoenix here too!
+Here I want to centralize my projects made in Elixir also with his libraries and frameworks!
+> Each folder will reprents a single project with their own Readme, Tests, Etc!
+
+I also want to disponibilize to you my own notations about Elixir in the links below:
+[PT-BR Doc](/md_docs/INTRODUCAO_ELIXIR.md)
+[EN-US Doc](/md_docs/INTRODUCTION_ELIXIR.md)
